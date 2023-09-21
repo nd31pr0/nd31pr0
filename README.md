@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ndzi Nfor, aka @nd31pr0
-- 👀 I’m interested in fullStack development and as well in AWS.
-- 🌱 I’m currently learning html, css, and javascript.
-- 💞️ I’m looking to collaborate on any beginner level fullstack roles
+- 👀 I’m interested in fullStack development.
+- 🌱 I’m currently working with html, css, javascript, React, MungoDB and Node.js.
+- 💞️ I’m looking to collaborate on any full-stack roles
 - 📫 How to reach me I am reachable through ndzinfor@gmail.com
 
 <!---
